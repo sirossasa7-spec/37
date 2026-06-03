@@ -18,9 +18,15 @@
     <ClCompile Include="37.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="WebBrowser.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyStack.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="WebBrowser.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
